@@ -40,7 +40,3 @@ To test it run this:
 
 If you see nothing, you need to set the config setting:
 
-    $ git config --global github.user YOUR_USER
-    $ git config --global github.token YOUR_TOKEN
-
-See <http://help.github.com/git-email-settings/> for more information.
